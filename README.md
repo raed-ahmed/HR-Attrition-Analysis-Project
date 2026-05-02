@@ -74,6 +74,11 @@ This dashboard was built using :
 
 ![Dashboard](Images/2-Attrition%20Analysis%20Dashboard.png)
 
+## 🎥 Dashboard Walkthrough
+
+👉 **[Watch Full Video](https://drive.google.com/file/d/1w5PUGSHCfzmCEUpfgKA5Qkxa5syXoTT9/view?usp=drivesdk)**
+
+
 ## 🎯 Purpose
 
 This dashboard helps to:
