@@ -1,4 +1,4 @@
-# 📊 HR Attrition Analysis Project
+# 📊 HR Attrition Analysis Project (Excel)
 
 ## 📌 Overview
 
