@@ -70,11 +70,13 @@ This dashboard was built using :
 * **Slicers & Interactive Filters**
 * **Dashboard Design & Data Visualization**
 
-## 📷 Dashboard Preview
-
+## 📷 Project Preview
+* Home Page
+![Dashboard](Images/1-Home%20Page.png)
+* Attrition Analysis Dashboard
 ![Dashboard](Images/2-Attrition%20Analysis%20Dashboard.png)
 
-## 🎥 Dashboard Walkthrough
+## 🎥 Interactive Video
 
 👉 **[Watch Full Video](https://drive.google.com/file/d/1w5PUGSHCfzmCEUpfgKA5Qkxa5syXoTT9/view?usp=drivesdk)**
 
